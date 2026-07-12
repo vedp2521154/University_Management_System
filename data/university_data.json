@@ -1,0 +1,107 @@
+{
+  "admission": {
+    "title": "Admission Information",
+
+    "overview": "Admissions are conducted through the university's online admission portal.",
+
+    "eligibility": {
+      "B.Tech": "Candidates must have passed 10+2 with Physics, Chemistry and Mathematics.",
+      "M.Tech": "Candidates must possess a Bachelor's degree in Engineering."
+    },
+
+    "documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "Transfer Certificate (TC)",
+      "Migration Certificate (if applicable)",
+      "Passport-size photographs",
+      "Aadhaar Card",
+      "Category Certificate (if applicable)"
+    ],
+
+    "application_fee": "₹1000",
+
+    "application_mode": "Online",
+
+    "contact": {
+      "email": "admission@university.edu",
+      "phone": "+91-987654XXXX"
+    },
+
+    "steps": [
+      "Fill the online application form.",
+      "Upload required documents.",
+      "Pay the application fee.",
+      "Wait for the merit list.",
+      "Complete document verification."
+    ]
+  },
+
+  "exam": {
+
+    "title": "Examination Information",
+
+    "semester_exams": "Semester examinations are conducted twice every academic year.",
+
+    "admit_card": "Admit cards are released one week before the examination.",
+
+    "attendance": "Minimum 75% attendance is required to appear in examinations.",
+
+    "results": "Results are published on the university portal.",
+
+    "backlog": "Students with backlogs may appear in supplementary examinations.",
+
+    "grading": "Grades are awarded according to university regulations."
+  },
+
+  "fees": {
+
+    "title": "Fee Structure",
+
+    "tuition_fee": "₹50,000 per year",
+
+    "hostel_fee": "₹20,000 per year",
+
+    "library_fee": "₹2,000 per year",
+
+    "examination_fee": "₹3,000 per semester",
+
+    "payment_mode": [
+      "Online",
+      "Offline"
+    ],
+
+    "refund_policy": "Refunds are processed according to university regulations."
+  },
+
+  "scholarship": {
+
+    "title": "Scholarship Information",
+
+    "types": [
+      "Merit Scholarship",
+      "Government Scholarship",
+      "Minority Scholarship"
+    ],
+
+    "eligibility": [
+      "Academic excellence",
+      "Economically weaker sections",
+      "Government eligibility criteria"
+    ],
+
+    "documents": [
+      "Income Certificate",
+      "Marksheet",
+      "Bank Passbook",
+      "Category Certificate (if applicable)"
+    ],
+
+    "application_process": [
+      "Visit the scholarship portal.",
+      "Fill the scholarship application.",
+      "Upload required documents.",
+      "Submit before the deadline."
+    ]
+  }
+}
