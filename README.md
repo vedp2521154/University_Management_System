@@ -1,8 +1,8 @@
-# University Management System using LangGraph
+# 🎓 University Management Assistant using LangGraph
 
 ## Overview
 
-This project is an AI-powered University Management Assistant built using LangGraph and Groq LLM. It routes user queries to specialized agents based on intent.
+This project is an AI-powered University Management Assistant built using LangGraph, LangChain, and Groq Llama 3.3. It intelligently classifies student queries and routes them to specialized AI agents such as Admission, Examination, Fees, and Scholarship agents to generate accurate responses.
 
 ---
 
@@ -42,18 +42,32 @@ University_Management_System/
 ├── requirements.txt
 └── README.md
 ```
+## Setup
 
-## Installation
+1. Clone the repository
 
-```bash
+git clone https://github.com/vedp2521154/University_Management_System.git
+
+2. Create a virtual environment
+
+python -m venv .venv
+
+3. Activate it
+
+Windows:
+.venv\Scripts\activate
+
+4. Install dependencies
+
 pip install -r requirements.txt
-```
 
-## Run
+5. Create a .env file
 
-```bash
+GROQ_API_KEY=your_api_key_here
+
+6. Run
+
 python app.py
-```
 
 ## Sample Questions
 
