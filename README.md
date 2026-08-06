@@ -70,6 +70,7 @@ GROQ_API_KEY=your_api_key_here
 python app.py
 
 ## Sample Questions
+
 - How do I enroll in the university?
 - Tell me about fees.
 - When are the semester exams?
