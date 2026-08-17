@@ -29,7 +29,7 @@ This project is an AI-powered University Management Assistant built using LangGr
 
 ---
 
-## Project Structure
+## Project Structure.
 
 ```text
 University_Management_System/
